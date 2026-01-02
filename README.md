@@ -20,7 +20,7 @@ This is a Streamlit application that performs real-time object detection and tra
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/rohit3576/Object-Detection-App.git](https://github.com/rohit3576/Object-Detection-App.git)
     cd YOUR_REPOSITORY_NAME
     ```
 
